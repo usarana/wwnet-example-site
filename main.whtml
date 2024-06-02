@@ -1,0 +1,19 @@
+<div>
+    <div>
+        <h1 randomAttributeLol="random value lol">Hello, world!</h1>
+        <i>Hello, world! again lol</i>
+        <u>Hello, world! again lol</u>
+        <s>Hello, world! once more lol</s>
+        <h1>epik</h1>
+        <h2>epik</h2>
+        <h3>epik</h3>
+        <h4>epik</h4>
+        <h5>epik</h5>
+        <h6>epik</h6>
+        <b>epik but bold</b>
+        <p>epik but 16px</p>
+        <button href="main.whtml">button lol</button>
+        <a href="page2.whtml">link lol</a>
+        <input>
+    </div>
+</div>
