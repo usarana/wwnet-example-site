@@ -1,0 +1,4 @@
+<h1>page3 in folder testfolder2 in folder testfolder</h1>
+<a href="../../main.whtml">go back to main one</a>
+<a href="test2.site">go to site2 yay</a>
+<a href="../page3.whtml">go to page3 yay</a>
