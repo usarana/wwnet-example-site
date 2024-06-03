@@ -1,4 +1,5 @@
 <h1>new page wooo</h1>
 <a href="main.whtml">go back to previous one</a>
+<a href="testfolder/page3.whtml">go to page3 yay</a>
 <a href="test2.site">go to site2 yay</a>
 <a href="test2.site/page2">go to site2 page2 yay</a>
