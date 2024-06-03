@@ -1,4 +1,4 @@
-<include type="wcss" src="static/wcss/style.wcss"
+<include type="wcss" src="static/wcss/style.wcss">
 <div>
     <div>
         <h1 id="header">Hello, world!</h1>
