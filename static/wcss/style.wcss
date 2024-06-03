@@ -1,0 +1,15 @@
+id header
+start
+    background-color=red
+    color=rgb 0 0 255
+end
+
+type button
+start
+    width=300
+end
+
+class epik
+start
+    color=hex 00FF00
+end
