@@ -2,3 +2,4 @@
 <a href="../main.whtml">go back to main one</a>
 <a href="test2.site">go to site2 yay</a>
 <a href="../page2.whtml">go to page2 yay</a>
+<a href="./testfolder2/page4.whtml">go to page4 yay</a>
