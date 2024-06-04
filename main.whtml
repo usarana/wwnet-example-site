@@ -1,6 +1,8 @@
 <include type="wcss" src="static/wcss/style.wcss">
+<meta icon="./static/img/icon.png">
 <div>
     <div>
+        <title>Site1</title>
         <h1 id="header">Hello, world!</h1>
         <i>Hello, world! again lol</i>
         <u>Hello, world! again lol</u>
